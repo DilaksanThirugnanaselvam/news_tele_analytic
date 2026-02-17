@@ -8,8 +8,8 @@ openai.api_key = ""  # Replace with your actual OpenAI API key
 
 
 # Telegram Bot Token and Channel Chat ID (replace with your actual values)
-TELEGRAM_BOT_TOKEN = "7845194271:AAHd07FXO4UB4aAw24xlXmMFnGkV6Q4v1JQ"  # Replace with your actual Telegram bot token
-TELEGRAM_CHAT_ID = "-1002496992612"  # Your Telegram channel username (e.g., @newsdilak)
+TELEGRAM_BOT_TOKEN = ""  # Replace with your actual Telegram bot token
+TELEGRAM_CHAT_ID = ""  # Your Telegram channel username (e.g., @newsdilak)
 
 # Function to send messages to Telegram
 def send_to_telegram(message):
